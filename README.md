@@ -243,12 +243,6 @@ Project screenshots are available inside the `screenshots/` directory.
 
 ---
 
-# PCAP Files
-
-Sample packet captures used during analysis are available inside the `pcap-files/` directory.
-
----
-
 # Reports
 
 Detailed investigation reports are available inside the `reports/` directory.
