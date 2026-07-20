@@ -32,7 +32,6 @@ Wireshark-Network-Traffic-Analysis
 │
 ├── 01-Lab-Setup
 │   ├── Network-Topology.md
-│   ├── Installing-Wireshark.md
 │   └── Capture-Configuration.md
 │
 ├── 02-Basic-Traffic-Analysis
@@ -100,7 +99,6 @@ Wireshark-Network-Traffic-Analysis
 
 ### Lab Setup
 
-- Installing Wireshark
 - Network topology
 - Capture configuration
 - Selecting interfaces
