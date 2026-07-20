@@ -50,7 +50,7 @@ Packet capture was started by selecting the active network interface and clickin
 
 Screenshot:
 
-`screenshots/capture-started.png`
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/3ee46362-d107-4b7b-95f0-d6e3c168214c" />
 
 ---
 
@@ -71,18 +71,7 @@ This generated ICMP Echo Request and Echo Reply packets.
 ## Saving the Capture
 
 After the traffic was generated, packet capture was stopped and saved in PCAPNG format.
-
-Filename:
-
-```
-lab-setup-test.pcapng
-```
-
-Location:
-
-```
-pcap-files/
-```
+FILE NAME: lab-setup-test.pcapng
 
 ---
 
@@ -100,7 +89,8 @@ This confirmed that Wireshark was successfully capturing live network traffic.
 
 Screenshot:
 
-`screenshots/capture-completed.png`
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/cc05d491-1375-4448-8b68-0dbd293e3259" />
+
 
 ---
 
