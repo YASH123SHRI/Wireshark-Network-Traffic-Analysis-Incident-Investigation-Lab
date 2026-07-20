@@ -21,11 +21,11 @@ The objective of this section is to configure Wireshark for capturing live netwo
 
 After launching Wireshark, all available network interfaces were displayed. The active interface showing continuous network activity was selected for packet capture.
 
-> **Selected Interface:** Wi-Fi (or Ethernet, depending on your system)
+> **Selected Interface:** Wi-Fi
 
 Screenshot:
 
-`screenshots/interface-selection.png`
+<img width="1536" height="326" alt="image" src="https://github.com/user-attachments/assets/3086a633-6ea0-47fd-8344-f8bcbf7d79e4" />
 
 ---
 
