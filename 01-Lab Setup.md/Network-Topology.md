@@ -21,7 +21,7 @@ The objective of this lab setup is to create a simple and controlled environment
 
 ## Network Topology
 
-![Network Topology](../screenshots/network-topology.png)
+<img width="840" height="577" alt="image" src="https://github.com/user-attachments/assets/6c52ede5-8811-47bc-ba27-68fd7ce0ee11" />
 
 ---
 
