@@ -271,6 +271,8 @@ This project is created strictly for educational purposes and cybersecurity trai
 
 ---
 
+<img width="840" height="577" alt="image" src="https://github.com/user-attachments/assets/6965819c-ab18-4dc6-9481-169fbe412a4e" />
+
 ## Author
 
 **YASH SHRIVASTAVA**
