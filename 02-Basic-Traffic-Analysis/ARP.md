@@ -20,17 +20,8 @@ Commands:
 
 ```cmd
 arp -d *
-ping <Default_Gateway_IP> -n 3
+ping 10.168.216.157 -n 3
 ```
-
-Example:
-
-```cmd
-arp -d *
-ping 192.168.1.1 -n 3
-```
-
----
 
 ## Packet Capture
 
