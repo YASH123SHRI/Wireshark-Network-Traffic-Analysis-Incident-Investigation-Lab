@@ -82,5 +82,15 @@ DNS successfully resolved the requested domain name into an IP address.
 ## Screenshots
 
 - DNS Filter
+
+<img width="1919" height="597" alt="image" src="https://github.com/user-attachments/assets/24aa1e3d-3b19-4b27-801a-ddfc16130a6a" />
+
 - DNS Query
+
+<img width="1919" height="442" alt="image" src="https://github.com/user-attachments/assets/556e5f84-c32e-47f0-a21f-ac4be6e261e8" />
+
+  
 - DNS Response
+
+<img width="1919" height="434" alt="image" src="https://github.com/user-attachments/assets/60e6a1a2-614d-4a5d-8cd3-8785831ad0ff" />
+
