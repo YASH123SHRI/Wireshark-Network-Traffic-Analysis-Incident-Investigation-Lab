@@ -42,7 +42,7 @@ icmp.pcapng
 ## Display Filter
 
 ```
-icmp
+icmpv6
 ```
 
 ---
@@ -89,3 +89,5 @@ ICMP packet analysis demonstrated successful communication between the local wor
 - Packet Capture
 - ICMP Display Filter
 - Packet Details Pane
+
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/36cffe96-7454-46d3-a94a-85ccfe1e33d4" />
