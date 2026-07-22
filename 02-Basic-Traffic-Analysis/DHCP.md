@@ -97,7 +97,21 @@ DHCP packet analysis demonstrated the complete IP address assignment process usi
 ## Screenshots
 
 - DHCP Display Filter
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/6bc5954f-7483-469c-82bf-30cd576dae2a" />
+
 - DHCP Discover
+
+<img width="1919" height="447" alt="image" src="https://github.com/user-attachments/assets/39ebb336-bd45-415a-8d71-fbb1c2f92465" />
+
 - DHCP Offer
+
+<img width="1919" height="439" alt="image" src="https://github.com/user-attachments/assets/ed94b8ae-e3ad-4a54-9db1-d2d9303d3f1d" />
+
 - DHCP Request
+
+<img width="1919" height="440" alt="image" src="https://github.com/user-attachments/assets/1ed066ee-2800-40dd-93d6-2af771cbf983" />
+
 - DHCP ACK
+
+<img width="1919" height="445" alt="image" src="https://github.com/user-attachments/assets/922ecbf4-8832-4ca8-9afa-88a8c4583878" />
