@@ -85,5 +85,7 @@ Conversation statistics provide a high-level overview of network communication a
 ## Screenshots
 
 - Statistics → Conversations Window
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/71c3f273-55ba-4712-aa6e-268bcab9200f" />
+
 - TCP Conversations
 - UDP Conversations
