@@ -95,3 +95,4 @@ Conversation statistics provide a high-level overview of network communication a
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/d3280d37-d77c-484b-b20d-9b71b5ca0475" />
 
 - UDP Conversations
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/aa1c755f-64bd-40a5-9bed-744d351813fc" />
