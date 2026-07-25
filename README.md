@@ -6,7 +6,7 @@ This project is a hands-on network traffic analysis and incident investigation l
 
 The project follows a structured learning approach beginning with packet capture fundamentals and progressing towards real-world security investigations such as port scanning, brute-force attacks, suspicious traffic analysis, malware communication, and network incident reporting.
 
-This repository demonstrates practical skills expected from entry-level SOC (Security Operations Center) analysts.
+This repository demonstrates practical skills expected from entry-level SOC (Security Operation Center) analysts.
 
 ---
 
