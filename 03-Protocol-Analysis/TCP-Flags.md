@@ -122,6 +122,13 @@ TCP flags coordinate every stage of a TCP connection, ensuring reliable communic
 ## Screenshots
 
 - TCP Display Filter
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/3d7a8af4-d3a7-45b3-8be4-7252bc60fd7f" />
+
 - SYN Packet
-- ACK Packet
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/15a38703-d30c-4aa0-8b36-11adaca4d778" />
+
 - FIN Packet
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/b7d59db4-d412-4989-9583-ef45dfaf9422" />
+
+- RST, ACK Packet
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/a6c08aca-3b32-49d1-a8c0-08d0675ae9c5" />
