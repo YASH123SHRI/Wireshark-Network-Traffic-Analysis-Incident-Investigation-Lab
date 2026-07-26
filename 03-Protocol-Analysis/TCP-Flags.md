@@ -130,5 +130,5 @@ TCP flags coordinate every stage of a TCP connection, ensuring reliable communic
 - FIN Packet
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/b7d59db4-d412-4989-9583-ef45dfaf9422" />
 
-- RST, ACK Packet
+- RST Packet
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/a6c08aca-3b32-49d1-a8c0-08d0675ae9c5" />
