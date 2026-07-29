@@ -10,7 +10,7 @@ This repository demonstrates practical skills expected from entry-level SOC (Sec
 
 ---
 
-## Objective
+## Objectives
 
 - Learn packet capturing using Wireshark
 - Understand common network protocols
