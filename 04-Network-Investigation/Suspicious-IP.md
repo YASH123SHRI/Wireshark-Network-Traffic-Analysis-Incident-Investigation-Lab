@@ -91,3 +91,7 @@ Endpoint and conversation analysis successfully identified potentially suspiciou
 - Conversations Window
 - Suspicious IP Filter
 - Packet Details
+
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/9beb58d3-d9f0-4882-bd80-ad0ed098677b" />
+
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/dd8f114d-746f-4cba-b7da-53747c3a6756" />
