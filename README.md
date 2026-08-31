@@ -68,10 +68,7 @@ Wireshark-Network-Traffic-Analysis
 │   └── Exporting-Objects.md
 │
 ├── 06-Case-Studies
-│   ├── Case-1-Employee-Web-Browsing.md
-│   ├── Case-2-FTP-File-Transfer.md
-│   ├── Case-3-Suspicious-Network-Traffic.md
-│   └── Case-4-Network-Incident-Report.md
+│   └── Case-1-Network-Incident-Report.md
 │
 ├── Findings.md
 ├── Recommendations.md
