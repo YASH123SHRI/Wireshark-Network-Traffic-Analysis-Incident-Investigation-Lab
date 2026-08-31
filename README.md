@@ -70,12 +70,8 @@ Wireshark-Network-Traffic-Analysis
 ├── 06-Case-Studies
 │   └── Case-1-Network-Incident-Report.md
 │
-├── Findings.md
-├── Recommendations.md
-│
 ├── pcap-files
-├── screenshots
-└── reports
+└── screenshots
 ```
 
 ---
